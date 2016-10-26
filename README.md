@@ -1,4 +1,5 @@
 # docker-predictionio-docs
+0. put file `id_rsa` in the folder containing Dockerfile
 
 1. Build docker image
     ```Bash
