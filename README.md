@@ -1,6 +1,8 @@
 # docker-predictionio-docs
 0. put file `id_rsa` in the folder containing Dockerfile
 
+1. use your `GH_ID` in the Dockerfile
+
 1. Build docker image
     ```Bash
     $ docker build -t predictionio_docs .
